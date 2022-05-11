@@ -1,0 +1,13 @@
+body { background-color: black;}
+h1 { text-decoration:underline;color:#ABEBC6; font-style:italic;}
+h2 {text-decoration: underline;color:#ABEBC6; text-align: center;}
+p {color:#ABEBC6;}
+.parrafo2 {color: #ABEBC6;text-align: center; border: 10px; border-color: #ABEBC6}
+
+h3 {text-decoration: underline;color:#ABEBC6; text-align: center;}
+ul {color:#ABEBC6; font-size:medium; font-stretch: condensed;}
+.subtitulo1 {color:#ABEBC6; text-decoration: underline ;}
+.parent2 {text-align:center;}
+ol {color:#ABEBC6;text-align: center; font-size:medium}
+.parent {text-align: center;}
+.whatsapp {position: fixed;}
